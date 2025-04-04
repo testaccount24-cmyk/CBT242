@@ -1,0 +1,624 @@
+2025-04-04 06:34:50.527094 - Received CBT.V508.FILE242.PDS from FILE242.XMI 
+2025-04-04 06:34:50.535839 - Found alias @ACCDSCT to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@ACCDSCT
+2025-04-04 06:34:50.536063 - Found @ACEE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ACEE
+2025-04-04 06:34:50.536143 - Found alias @ACEEDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@ACEEDSC
+2025-04-04 06:34:50.536302 - Found @ACEROD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ACEROD
+2025-04-04 06:34:50.536437 - Found @ACERWD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ACERWD
+2025-04-04 06:34:50.536558 - Found @ACHKLIS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ACHKLIS
+2025-04-04 06:34:50.536671 - Found @ACSPMD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ACSPMD
+2025-04-04 06:34:50.536788 - Found @ADSR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ADSR
+2025-04-04 06:34:50.536841 - Found alias @ADSRCMP to @ADSR in CBT.V508.FILE242.PDS, moved to PDS/@ADSRCMP
+2025-04-04 06:34:50.536890 - Found alias @ADSRDBS to @ADSR in CBT.V508.FILE242.PDS, moved to PDS/@ADSRDBS
+2025-04-04 06:34:50.536935 - Found alias @ADSRROS to @ADSR in CBT.V508.FILE242.PDS, moved to PDS/@ADSRROS
+2025-04-04 06:34:50.536978 - Found alias @ADSR5ST to @ADSR in CBT.V508.FILE242.PDS, moved to PDS/@ADSR5ST
+2025-04-04 06:34:50.537090 - Found @AE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AE
+2025-04-04 06:34:50.537238 - Found @AMDAREA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AMDAREA
+2025-04-04 06:34:50.537289 - Found alias @AMDMPEN to @AMDAREA in CBT.V508.FILE242.PDS, moved to PDS/@AMDMPEN
+2025-04-04 06:34:50.537331 - Found alias @AMDPATH to @AMDAREA in CBT.V508.FILE242.PDS, moved to PDS/@AMDPATH
+2025-04-04 06:34:50.537375 - Found alias @AMDSD to @AMDAREA in CBT.V508.FILE242.PDS, moved to PDS/@AMDSD
+2025-04-04 06:34:50.537416 - Found alias @AMDSYS to @AMDAREA in CBT.V508.FILE242.PDS, moved to PDS/@AMDSYS
+2025-04-04 06:34:50.537479 - Found alias @APPLDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@APPLDSC
+2025-04-04 06:34:50.537531 - Found alias @AQAT to @AQATITB in CBT.V508.FILE242.PDS, moved to PDS/@AQAT
+2025-04-04 06:34:50.537644 - Found @AQATITB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AQATITB
+2025-04-04 06:34:50.537762 - Found @ASCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASCB
+2025-04-04 06:34:50.537907 - Found @ASEO.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASEO
+2025-04-04 06:34:50.538049 - Found @ASMHD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASMHD
+2025-04-04 06:34:50.538193 - Found @ASSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASSB
+2025-04-04 06:34:50.538326 - Found @ASTE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASTE
+2025-04-04 06:34:50.538463 - Found @ASVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASVT
+2025-04-04 06:34:50.538518 - Found alias @ASVTBEG to @ASVT in CBT.V508.FILE242.PDS, moved to PDS/@ASVTBEG
+2025-04-04 06:34:50.538631 - Found @ASXB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ASXB
+2025-04-04 06:34:50.538741 - Found @ATB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ATB
+2025-04-04 06:34:50.538788 - Found alias @ATTCHLS to @ATTCHLX in CBT.V508.FILE242.PDS, moved to PDS/@ATTCHLS
+2025-04-04 06:34:50.538898 - Found @ATTCHLX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ATTCHLX
+2025-04-04 06:34:50.539020 - Found @AUDLIST.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AUDLIST
+2025-04-04 06:34:50.539150 - Found @AUIPM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AUIPM
+2025-04-04 06:34:50.539292 - Found @AUSCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AUSCB
+2025-04-04 06:34:50.539427 - Found @AUSPM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@AUSPM
+2025-04-04 06:34:50.539587 - Found @BASE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@BASE
+2025-04-04 06:34:50.539637 - Found alias @BASEX to @BASE in CBT.V508.FILE242.PDS, moved to PDS/@BASEX
+2025-04-04 06:34:50.539680 - Found alias @BFLE to @BFLHDR in CBT.V508.FILE242.PDS, moved to PDS/@BFLE
+2025-04-04 06:34:50.539826 - Found @BFLHDR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@BFLHDR
+2025-04-04 06:34:50.539934 - Found @CACP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CACP
+2025-04-04 06:34:50.540048 - Found @CAF.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CAF
+2025-04-04 06:34:50.540335 - Found @CBLS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CBLS
+2025-04-04 06:34:50.540485 - Found @CBRADUP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CBRADUP
+2025-04-04 06:34:50.540608 - Found @CCW0.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CCW0
+2025-04-04 06:34:50.540749 - Found @CCXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CCXPL
+2025-04-04 06:34:50.540865 - Found @CDENTRY.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CDENTRY
+2025-04-04 06:34:50.540976 - Found @CGRP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CGRP
+2025-04-04 06:34:50.541043 - Found alias @CGRPENT to @CGRP in CBT.V508.FILE242.PDS, moved to PDS/@CGRPENT
+2025-04-04 06:34:50.541165 - Found @CHAIN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CHAIN
+2025-04-04 06:34:50.541282 - Found @CHSCED.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CHSCED
+2025-04-04 06:34:50.541350 - Found alias @CIBX to @IEZCIB in CBT.V508.FILE242.PDS, moved to PDS/@CIBX
+2025-04-04 06:34:50.541466 - Found @CIPADEV.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CIPADEV
+2025-04-04 06:34:50.541596 - Found @CMDX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CMDX
+2025-04-04 06:34:50.541669 - Found alias @CMDXCDA to @CMDX in CBT.V508.FILE242.PDS, moved to PDS/@CMDXCDA
+2025-04-04 06:34:50.541714 - Found alias @CMDXCLI to @CMDX in CBT.V508.FILE242.PDS, moved to PDS/@CMDXCLI
+2025-04-04 06:34:50.541830 - Found @CMSLK.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CMSLK
+2025-04-04 06:34:50.541944 - Found @CNMB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CNMB
+2025-04-04 06:34:50.541994 - Found alias @CNPREXI to @CNPRM in CBT.V508.FILE242.PDS, moved to PDS/@CNPREXI
+2025-04-04 06:34:50.542099 - Found @CNPRM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CNPRM
+2025-04-04 06:34:50.542209 - Found @CNXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CNXPL
+2025-04-04 06:34:50.542324 - Found @CONV.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CONV
+2025-04-04 06:34:50.542447 - Found @CPAB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CPAB
+2025-04-04 06:34:50.542578 - Found @CPPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CPPL
+2025-04-04 06:34:50.542701 - Found @CPS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CPS
+2025-04-04 06:34:50.542821 - Found @CPVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CPVT
+2025-04-04 06:34:50.542941 - Found @CQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CQE
+2025-04-04 06:34:50.543050 - Found @CRAB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CRAB
+2025-04-04 06:34:50.543099 - Found alias @CSCX to @CHAIN in CBT.V508.FILE242.PDS, moved to PDS/@CSCX
+2025-04-04 06:34:50.543207 - Found @CSOA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CSOA
+2025-04-04 06:34:50.543321 - Found @CSPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CSPL
+2025-04-04 06:34:50.543435 - Found @CTE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CTE
+2025-04-04 06:34:50.543493 - Found alias @CTEEPLG to @CTE in CBT.V508.FILE242.PDS, moved to PDS/@CTEEPLG
+2025-04-04 06:34:50.543622 - Found @CTSS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CTSS
+2025-04-04 06:34:50.543676 - Found alias @CTSSASI to @CTSS in CBT.V508.FILE242.PDS, moved to PDS/@CTSSASI
+2025-04-04 06:34:50.543726 - Found alias @CTSSJOB to @CTSS in CBT.V508.FILE242.PDS, moved to PDS/@CTSSJOB
+2025-04-04 06:34:50.543772 - Found alias @CTSSOPT to @CTSS in CBT.V508.FILE242.PDS, moved to PDS/@CTSSOPT
+2025-04-04 06:34:50.543903 - Found @CTXI.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CTXI
+2025-04-04 06:34:50.544038 - Found @CTXT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CTXT
+2025-04-04 06:34:50.544089 - Found alias @CTXTATT to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTATT
+2025-04-04 06:34:50.544138 - Found alias @CTXTCDA to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTCDA
+2025-04-04 06:34:50.544190 - Found alias @CTXTCNM to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTCNM
+2025-04-04 06:34:50.544236 - Found alias @CTXTCON to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTCON
+2025-04-04 06:34:50.544281 - Found alias @CTXTDES to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTDES
+2025-04-04 06:34:50.544325 - Found alias @CTXTFBC to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTFBC
+2025-04-04 06:34:50.544369 - Found alias @CTXTPRF to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTPRF
+2025-04-04 06:34:50.544415 - Found alias @CTXTROU to @CTXT in CBT.V508.FILE242.PDS, moved to PDS/@CTXTROU
+2025-04-04 06:34:50.544547 - Found @CVPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CVPL
+2025-04-04 06:34:50.544825 - Found @CVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CVT
+2025-04-04 06:34:50.544888 - Found alias @CVTVSTG to @CVT in CBT.V508.FILE242.PDS, moved to PDS/@CVTVSTG
+2025-04-04 06:34:50.544942 - Found alias @CVTXTNT to @CVT in CBT.V508.FILE242.PDS, moved to PDS/@CVTXTNT
+2025-04-04 06:34:50.545106 - Found @CWPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@CWPL
+2025-04-04 06:34:50.545285 - Found @DAIRACB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAIRACB
+2025-04-04 06:34:50.545455 - Found @DAPB0C.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB0C
+2025-04-04 06:34:50.545613 - Found @DAPB00.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB00
+2025-04-04 06:34:50.545774 - Found @DAPB04.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB04
+2025-04-04 06:34:50.545968 - Found @DAPB08.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB08
+2025-04-04 06:34:50.546434 - Found @DAPB1C.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB1C
+2025-04-04 06:34:50.546598 - Found @DAPB10.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB10
+2025-04-04 06:34:50.546749 - Found @DAPB14.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB14
+2025-04-04 06:34:50.546947 - Found @DAPB18.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB18
+2025-04-04 06:34:50.547099 - Found @DAPB2C.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB2C
+2025-04-04 06:34:50.547261 - Found @DAPB24.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB24
+2025-04-04 06:34:50.547398 - Found @DAPB28.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB28
+2025-04-04 06:34:50.547537 - Found @DAPB30.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB30
+2025-04-04 06:34:50.547673 - Found @DAPB34.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPB34
+2025-04-04 06:34:50.547817 - Found @DAPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DAPL
+2025-04-04 06:34:50.547895 - Found alias @DAREA to @GTFAPP in CBT.V508.FILE242.PDS, moved to PDS/@DAREA
+2025-04-04 06:34:50.548049 - Found @DCCD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DCCD
+2025-04-04 06:34:50.548343 - Found alias @DCCDARR to @DCCD in CBT.V508.FILE242.PDS, moved to PDS/@DCCDARR
+2025-04-04 06:34:50.548463 - Found @DCE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DCE
+2025-04-04 06:34:50.548561 - Found alias @DCMMCTE to @STRTDCM in CBT.V508.FILE242.PDS, moved to PDS/@DCMMCTE
+2025-04-04 06:34:50.548653 - Found alias @DCMSCTA to @STRTDCM in CBT.V508.FILE242.PDS, moved to PDS/@DCMSCTA
+2025-04-04 06:34:50.548746 - Found alias @DCMSCTC to @STRTDCM in CBT.V508.FILE242.PDS, moved to PDS/@DCMSCTC
+2025-04-04 06:34:50.548859 - Found @DCP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DCP
+2025-04-04 06:34:50.548969 - Found @DCSIEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DCSIEPL
+2025-04-04 06:34:50.549281 - Found @DDRCOM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DDRCOM
+2025-04-04 06:34:50.549403 - Found @DDT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DDT
+2025-04-04 06:34:50.549610 - Found @DEB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DEB
+2025-04-04 06:34:50.549671 - Found alias @DEBACSM to @DEB in CBT.V508.FILE242.PDS, moved to PDS/@DEBACSM
+2025-04-04 06:34:50.549720 - Found alias @DEBBASI to @DEB in CBT.V508.FILE242.PDS, moved to PDS/@DEBBASI
+2025-04-04 06:34:50.549767 - Found alias @DEBDASD to @DEB in CBT.V508.FILE242.PDS, moved to PDS/@DEBDASD
+2025-04-04 06:34:50.549823 - Found alias @DEBSUBN to @DEB in CBT.V508.FILE242.PDS, moved to PDS/@DEBSUBN
+2025-04-04 06:34:50.549872 - Found alias @DEBXTN to @DEB in CBT.V508.FILE242.PDS, moved to PDS/@DEBXTN
+2025-04-04 06:34:50.549993 - Found @DECB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DECB
+2025-04-04 06:34:50.550110 - Found @DEXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DEXPL
+2025-04-04 06:34:50.550249 - Found @DFA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFA
+2025-04-04 06:34:50.550393 - Found @DFE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFE
+2025-04-04 06:34:50.550515 - Found @DFPARMS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFPARMS
+2025-04-04 06:34:50.550622 - Found @DFPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFPB
+2025-04-04 06:34:50.550882 - Found @DFPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFPL
+2025-04-04 06:34:50.550992 - Found @DFVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DFVT
+2025-04-04 06:34:50.551111 - Found @DOCNP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DOCNP
+2025-04-04 06:34:50.551174 - Found alias @DOCNTFL to @DOCNTLS in CBT.V508.FILE242.PDS, moved to PDS/@DOCNTFL
+2025-04-04 06:34:50.551287 - Found @DOCNTLS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DOCNTLS
+2025-04-04 06:34:50.551346 - Found alias @DOCNUNI to @DOCNTLS in CBT.V508.FILE242.PDS, moved to PDS/@DOCNUNI
+2025-04-04 06:34:50.551462 - Found @DOMCBAS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DOMCBAS
+2025-04-04 06:34:50.551578 - Found @DQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DQE
+2025-04-04 06:34:50.551689 - Found @DSAB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSAB
+2025-04-04 06:34:50.551759 - Found alias @DSABANM to @DSAB in CBT.V508.FILE242.PDS, moved to PDS/@DSABANM
+2025-04-04 06:34:50.551816 - Found alias @DSABGID to @DSAB in CBT.V508.FILE242.PDS, moved to PDS/@DSABGID
+2025-04-04 06:34:50.551929 - Found @DSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSB
+2025-04-04 06:34:50.552043 - Found @DSCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSCB
+2025-04-04 06:34:50.552153 - Found @DSD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSD
+2025-04-04 06:34:50.552222 - Found alias @DSDELEM to @DSD in CBT.V508.FILE242.PDS, moved to PDS/@DSDELEM
+2025-04-04 06:34:50.552342 - Found @DSERV.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSERV
+2025-04-04 06:34:50.552433 - Found alias @DSPACCE to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPACCE
+2025-04-04 06:34:50.552515 - Found alias @DSPAPPL to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPAPPL
+2025-04-04 06:34:50.552592 - Found alias @DSPBUF to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPBUF
+2025-04-04 06:34:50.552702 - Found @DSPD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSPD
+2025-04-04 06:34:50.552788 - Found alias @DSPDPTD to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPDPTD
+2025-04-04 06:34:50.552866 - Found alias @DSPINST to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPINST
+2025-04-04 06:34:50.552966 - Found alias @DSPVOLS to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSPVOLS
+2025-04-04 06:34:50.553045 - Found alias @DSP2ACC to @RRPF in CBT.V508.FILE242.PDS, moved to PDS/@DSP2ACC
+2025-04-04 06:34:50.553165 - Found @DSTAT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSTAT
+2025-04-04 06:34:50.553284 - Found @DSX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DSX
+2025-04-04 06:34:50.553396 - Found @DVAREA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DVAREA
+2025-04-04 06:34:50.553456 - Found alias @DVCT to @DVCTI in CBT.V508.FILE242.PDS, moved to PDS/@DVCT
+2025-04-04 06:34:50.553570 - Found @DVCTI.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@DVCTI
+2025-04-04 06:34:50.553695 - Found @EACOD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EACOD
+2025-04-04 06:34:50.553834 - Found @EAECB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EAECB
+2025-04-04 06:34:50.553958 - Found @EATTR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EATTR
+2025-04-04 06:34:50.554095 - Found @ECB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ECB
+2025-04-04 06:34:50.554208 - Found @ECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ECT
+2025-04-04 06:34:50.554334 - Found @ECVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ECVT
+2025-04-04 06:34:50.554460 - Found @ELEM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ELEM
+2025-04-04 06:34:50.554577 - Found @ENFCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ENFCT
+2025-04-04 06:34:50.554698 - Found @EPIE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EPIE
+2025-04-04 06:34:50.554995 - Found @EPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EPL
+2025-04-04 06:34:50.555138 - Found @ETD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ETD
+2025-04-04 06:34:50.555200 - Found alias @ETDELE to @ETD in CBT.V508.FILE242.PDS, moved to PDS/@ETDELE
+2025-04-04 06:34:50.555313 - Found @EVNT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EVNT
+2025-04-04 06:34:50.555427 - Found @EWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EWA
+2025-04-04 06:34:50.555538 - Found @EXTWKEA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@EXTWKEA
+2025-04-04 06:34:50.555659 - Found @FBQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@FBQE
+2025-04-04 06:34:50.555792 - Found @FETWK.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@FETWK
+2025-04-04 06:34:50.555862 - Found alias @FM5ACCS to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5ACCS
+2025-04-04 06:34:50.555936 - Found alias @FM5ASI to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5ASI
+2025-04-04 06:34:50.556003 - Found alias @FM5CVCO to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5CVCO
+2025-04-04 06:34:50.556065 - Found alias @FM5LUOW to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5LUOW
+2025-04-04 06:34:50.556127 - Found alias @FM5PIPF to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5PIPF
+2025-04-04 06:34:50.556193 - Found alias @FM5PIPS to @ISTFM5 in CBT.V508.FILE242.PDS, moved to PDS/@FM5PIPS
+2025-04-04 06:34:50.556318 - Found @FQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@FQE
+2025-04-04 06:34:50.556429 - Found @FRRS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@FRRS
+2025-04-04 06:34:50.556490 - Found alias @FRRSENT to @FRRS in CBT.V508.FILE242.PDS, moved to PDS/@FRRSENT
+2025-04-04 06:34:50.556543 - Found alias @FRRSXEN to @FRRS in CBT.V508.FILE242.PDS, moved to PDS/@FRRSXEN
+2025-04-04 06:34:50.556596 - Found alias @FRRSXST to @FRRS in CBT.V508.FILE242.PDS, moved to PDS/@FRRSXST
+2025-04-04 06:34:50.556656 - Found alias @FSIBLAT to @IAZFSIB in CBT.V508.FILE242.PDS, moved to PDS/@FSIBLAT
+2025-04-04 06:34:50.556714 - Found alias @FSIEA to @IAZFSIP in CBT.V508.FILE242.PDS, moved to PDS/@FSIEA
+2025-04-04 06:34:50.556770 - Found alias @FSIED to @IAZFSIP in CBT.V508.FILE242.PDS, moved to PDS/@FSIED
+2025-04-04 06:34:50.556828 - Found alias @FSIUDAT to @IAZFSIP in CBT.V508.FILE242.PDS, moved to PDS/@FSIUDAT
+2025-04-04 06:34:50.556880 - Found alias @FTWKARE to @FETWK in CBT.V508.FILE242.PDS, moved to PDS/@FTWKARE
+2025-04-04 06:34:50.557032 - Found @GDA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GDA
+2025-04-04 06:34:50.557178 - Found @GENC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GENC
+2025-04-04 06:34:50.557238 - Found alias @GENDAT to @GTFAPP in CBT.V508.FILE242.PDS, moved to PDS/@GENDAT
+2025-04-04 06:34:50.557534 - Found @GEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GEPL
+2025-04-04 06:34:50.557670 - Found @GFDSECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GFDSECT
+2025-04-04 06:34:50.557785 - Found @GIMMPUX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GIMMPUX
+2025-04-04 06:34:50.558179 - Found @GSDA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GSDA
+2025-04-04 06:34:50.558319 - Found @GTFAPP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GTFAPP
+2025-04-04 06:34:50.558445 - Found @GTO.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GTO
+2025-04-04 06:34:50.558574 - Found @GTPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GTPB
+2025-04-04 06:34:50.558694 - Found @GTS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GTS
+2025-04-04 06:34:50.558817 - Found @GWT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@GWT
+2025-04-04 06:34:50.558942 - Found @HCL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@HCL
+2025-04-04 06:34:50.559067 - Found @HMAA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@HMAA
+2025-04-04 06:34:50.559139 - Found alias @HMAADSN to @HMAA in CBT.V508.FILE242.PDS, moved to PDS/@HMAADSN
+2025-04-04 06:34:50.559194 - Found alias @HMAARNG to @HMAA in CBT.V508.FILE242.PDS, moved to PDS/@HMAARNG
+2025-04-04 06:34:50.559256 - Found alias @HMAATRK to @HMAA in CBT.V508.FILE242.PDS, moved to PDS/@HMAATRK
+2025-04-04 06:34:50.559313 - Found alias @HMPDS to @HMPL in CBT.V508.FILE242.PDS, moved to PDS/@HMPDS
+2025-04-04 06:34:50.559368 - Found alias @HMPHR to @HMPL in CBT.V508.FILE242.PDS, moved to PDS/@HMPHR
+2025-04-04 06:34:50.559478 - Found @HMPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@HMPL
+2025-04-04 06:34:50.559613 - Found @IATB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IATB
+2025-04-04 06:34:50.559744 - Found @IAZBTOK.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZBTOK
+2025-04-04 06:34:50.559857 - Found @IAZCHK.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZCHK
+2025-04-04 06:34:50.559985 - Found @IAZFSCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZFSCT
+2025-04-04 06:34:50.560127 - Found @IAZFSIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZFSIB
+2025-04-04 06:34:50.560277 - Found @IAZFSIP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZFSIP
+2025-04-04 06:34:50.560398 - Found @IAZFSVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZFSVT
+2025-04-04 06:34:50.560530 - Found @IAZIDX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZIDX
+2025-04-04 06:34:50.560666 - Found @IAZJSAB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZJSAB
+2025-04-04 06:34:50.560802 - Found @IAZJSPA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZJSPA
+2025-04-04 06:34:50.560914 - Found @IAZRESP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IAZRESP
+2025-04-04 06:34:50.561049 - Found @ICVARXN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ICVARXN
+2025-04-04 06:34:50.561195 - Found @ICVFCL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ICVFCL
+2025-04-04 06:34:50.561325 - Found @IDCDOUT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IDCDOUT
+2025-04-04 06:34:50.561600 - Found @IECANWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IECANWA
+2025-04-04 06:34:50.561710 - Found @IECIEPR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IECIEPR
+2025-04-04 06:34:50.561854 - Found @IEDB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEDB
+2025-04-04 06:34:50.561974 - Found @IEDSECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEDSECT
+2025-04-04 06:34:50.562094 - Found @IEFPCCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEFPCCB
+2025-04-04 06:34:50.562214 - Found @IEFSDPA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEFSDPA
+2025-04-04 06:34:50.562341 - Found @IEFSDSD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEFSDSD
+2025-04-04 06:34:50.562468 - Found @IEFSDSM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEFSDSM
+2025-04-04 06:34:50.562580 - Found @IEFSDWK.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEFSDWK
+2025-04-04 06:34:50.562656 - Found alias @IESUBCT to @IEDSECT in CBT.V508.FILE242.PDS, moved to PDS/@IESUBCT
+2025-04-04 06:34:50.562798 - Found @IEZCIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEZCIB
+2025-04-04 06:34:50.562938 - Found @IEZCOM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEZCOM
+2025-04-04 06:34:50.563064 - Found @IEZJSCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IEZJSCB
+2025-04-04 06:34:50.563191 - Found @IFGACB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IFGACB
+2025-04-04 06:34:50.563263 - Found alias @IFGEXLE to @IFGEXLS in CBT.V508.FILE242.PDS, moved to PDS/@IFGEXLE
+2025-04-04 06:34:50.563412 - Found @IFGEXLS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IFGEXLS
+2025-04-04 06:34:50.563566 - Found @IFGRPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IFGRPL
+2025-04-04 06:34:50.563727 - Found @IGDENVP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IGDENVP
+2025-04-04 06:34:50.563884 - Found @IGDID0N.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IGDID0N
+2025-04-04 06:34:50.564030 - Found @IGDSCHR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IGDSCHR
+2025-04-04 06:34:50.564189 - Found @IGDSGD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IGDSGD
+2025-04-04 06:34:50.564351 - Found @IGDVLD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IGDVLD
+2025-04-04 06:34:50.564494 - Found @IHAABEP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IHAABEP
+2025-04-04 06:34:50.564643 - Found @IHADATO.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IHADATO
+2025-04-04 06:34:50.564823 - Found @IHADCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IHADCB
+2025-04-04 06:34:50.564979 - Found @IHAPDAB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IHAPDAB
+2025-04-04 06:34:50.565133 - Found @IHSA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IHSA
+2025-04-04 06:34:50.565277 - Found @IKJEBEC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IKJEBEC
+2025-04-04 06:34:50.565364 - Found alias @INITENO to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITENO
+2025-04-04 06:34:50.565439 - Found alias @INITGRP to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITGRP
+2025-04-04 06:34:50.565507 - Found alias @INITLGS to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITLGS
+2025-04-04 06:34:50.565574 - Found alias @INITNPA to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITNPA
+2025-04-04 06:34:50.565644 - Found alias @INITOID to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITOID
+2025-04-04 06:34:50.565791 - Found @INITPAR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@INITPAR
+2025-04-04 06:34:50.565862 - Found alias @INITPAS to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITPAS
+2025-04-04 06:34:50.565926 - Found alias @INITSGR to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITSGR
+2025-04-04 06:34:50.565993 - Found alias @INITSNO to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITSNO
+2025-04-04 06:34:50.566056 - Found alias @INITSUI to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITSUI
+2025-04-04 06:34:50.566172 - Found @INITTER.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@INITTER
+2025-04-04 06:34:50.566237 - Found alias @INITUSR to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@INITUSR
+2025-04-04 06:34:50.566352 - Found @INMTEXT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@INMTEXT
+2025-04-04 06:34:50.566496 - Found @IOB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOB
+2025-04-04 06:34:50.566617 - Found @IOBAR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOBAR
+2025-04-04 06:34:50.566729 - Found @IOBE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOBE
+2025-04-04 06:34:50.566845 - Found @IOPARAM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOPARAM
+2025-04-04 06:34:50.566965 - Found @IOPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOPL
+2025-04-04 06:34:50.567077 - Found @IOSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOSB
+2025-04-04 06:34:50.567186 - Found @IOX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IOX
+2025-04-04 06:34:50.567301 - Found @IPIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IPIB
+2025-04-04 06:34:50.567411 - Found @IQESECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@IQESECT
+2025-04-04 06:34:50.567532 - Found @ISTBLEN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTBLEN
+2025-04-04 06:34:50.567680 - Found @ISTDBIN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTDBIN
+2025-04-04 06:34:50.567809 - Found @ISTDNIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTDNIB
+2025-04-04 06:34:50.567952 - Found @ISTDPOH.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTDPOH
+2025-04-04 06:34:50.568064 - Found @ISTDPRO.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTDPRO
+2025-04-04 06:34:50.568193 - Found @ISTDVCH.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTDVCH
+2025-04-04 06:34:50.568327 - Found @ISTFM5.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTFM5
+2025-04-04 06:34:50.568465 - Found @ISTMTS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTMTS
+2025-04-04 06:34:50.568596 - Found @ISTRH.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTRH
+2025-04-04 06:34:50.568735 - Found @ISTSLCN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTSLCN
+2025-04-04 06:34:50.568876 - Found @ISTSLD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTSLD
+2025-04-04 06:34:50.569280 - Found @ISTUSFB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ISTUSFB
+2025-04-04 06:34:50.569404 - Found @ITRH.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ITRH
+2025-04-04 06:34:50.569514 - Found @JCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JCT
+2025-04-04 06:34:50.569634 - Found @JCTXIN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JCTXIN
+2025-04-04 06:34:50.569764 - Found @JESCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JESCT
+2025-04-04 06:34:50.569839 - Found alias @JESPEXT to @JESCT in CBT.V508.FILE242.PDS, moved to PDS/@JESPEXT
+2025-04-04 06:34:50.569966 - Found @JFCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JFCB
+2025-04-04 06:34:50.570092 - Found @JFCBE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JFCBE
+2025-04-04 06:34:50.570221 - Found @JFCBXTT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JFCBXTT
+2025-04-04 06:34:50.570332 - Found @JICA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JICA
+2025-04-04 06:34:50.570444 - Found @JMR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JMR
+2025-04-04 06:34:50.570510 - Found alias @JOBNDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@JOBNDSC
+2025-04-04 06:34:50.570576 - Found alias @JSBFCOD to @JSBVT in CBT.V508.FILE242.PDS, moved to PDS/@JSBFCOD
+2025-04-04 06:34:50.570640 - Found alias @JSBTBL to @JSBVT in CBT.V508.FILE242.PDS, moved to PDS/@JSBTBL
+2025-04-04 06:34:50.570754 - Found @JSBVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JSBVT
+2025-04-04 06:34:50.570878 - Found @JSIPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@JSIPL
+2025-04-04 06:34:50.570940 - Found alias @JSPEXT to @IAZJSPA in CBT.V508.FILE242.PDS, moved to PDS/@JSPEXT
+2025-04-04 06:34:50.571061 - Found @LCCA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LCCA
+2025-04-04 06:34:50.571198 - Found @LCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LCT
+2025-04-04 06:34:50.571311 - Found @LDA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LDA
+2025-04-04 06:34:50.571436 - Found @LLE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LLE
+2025-04-04 06:34:50.571545 - Found @LLP1.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LLP1
+2025-04-04 06:34:50.571679 - Found @LLP2.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LLP2
+2025-04-04 06:34:50.571772 - Found alias @LLP2EP to @LLP2 in CBT.V508.FILE242.PDS, moved to PDS/@LLP2EP
+2025-04-04 06:34:50.571843 - Found alias @LLP2X to @LLP2 in CBT.V508.FILE242.PDS, moved to PDS/@LLP2X
+2025-04-04 06:34:50.572016 - Found @LPDE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LPDE
+2025-04-04 06:34:50.572173 - Found @LQB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LQB
+2025-04-04 06:34:50.572246 - Found alias @LQBLNGE to @LQB in CBT.V508.FILE242.PDS, moved to PDS/@LQBLNGE
+2025-04-04 06:34:50.572360 - Found @LRB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LRB
+2025-04-04 06:34:50.572474 - Found @LSD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LSD
+2025-04-04 06:34:50.572619 - Found @LWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@LWA
+2025-04-04 06:34:50.572740 - Found @MCA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MCA
+2025-04-04 06:34:50.572849 - Found @MCHEAD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MCHEAD
+2025-04-04 06:34:50.572956 - Found @MCSCSA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MCSCSA
+2025-04-04 06:34:50.573067 - Found @MCSM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MCSM
+2025-04-04 06:34:50.573142 - Found alias @MCSOMAP to @MCSOPPR in CBT.V508.FILE242.PDS, moved to PDS/@MCSOMAP
+2025-04-04 06:34:50.573293 - Found @MCSOPPR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MCSOPPR
+2025-04-04 06:34:50.573381 - Found alias @MCSOTBL to @MCSOPPR in CBT.V508.FILE242.PDS, moved to PDS/@MCSOTBL
+2025-04-04 06:34:50.573545 - Found @MDB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MDB
+2025-04-04 06:34:50.573621 - Found alias @MDBG to @MDB in CBT.V508.FILE242.PDS, moved to PDS/@MDBG
+2025-04-04 06:34:50.573779 - Found @MDBPRFX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MDBPRFX
+2025-04-04 06:34:50.573863 - Found alias @MDBSCP to @MDB in CBT.V508.FILE242.PDS, moved to PDS/@MDBSCP
+2025-04-04 06:34:50.573937 - Found alias @MDBT to @MDB in CBT.V508.FILE242.PDS, moved to PDS/@MDBT
+2025-04-04 06:34:50.574076 - Found @MDEL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MDEL
+2025-04-04 06:34:50.574153 - Found alias @MDELENT to @MDEL in CBT.V508.FILE242.PDS, moved to PDS/@MDELENT
+2025-04-04 06:34:50.574289 - Found @MEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MEPL
+2025-04-04 06:34:50.574440 - Found @MGCEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MGCEPL
+2025-04-04 06:34:50.574518 - Found alias @MGCETEX to @MGCEPL in CBT.V508.FILE242.PDS, moved to PDS/@MGCETEX
+2025-04-04 06:34:50.574590 - Found alias @MGCEUTK to @MGCEPL in CBT.V508.FILE242.PDS, moved to PDS/@MGCEUTK
+2025-04-04 06:34:50.574732 - Found @MGCRPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MGCRPL
+2025-04-04 06:34:50.574811 - Found alias @MGCRPTO to @MGCRPL in CBT.V508.FILE242.PDS, moved to PDS/@MGCRPTO
+2025-04-04 06:34:50.574886 - Found alias @MGCRSTO to @MGCRPL in CBT.V508.FILE242.PDS, moved to PDS/@MGCRSTO
+2025-04-04 06:34:50.575024 - Found @MIO.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MIO
+2025-04-04 06:34:50.575104 - Found alias @MIOMSG to @MIO in CBT.V508.FILE242.PDS, moved to PDS/@MIOMSG
+2025-04-04 06:34:50.575254 - Found @MLTE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MLTE
+2025-04-04 06:34:50.575397 - Found @MMIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MMIB
+2025-04-04 06:34:50.575527 - Found @MMRE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MMRE
+2025-04-04 06:34:50.575655 - Found @MODC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MODC
+2025-04-04 06:34:50.575789 - Found @MPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MPB
+2025-04-04 06:34:50.575875 - Found alias @MPBMSG to @MPB in CBT.V508.FILE242.PDS, moved to PDS/@MPBMSG
+2025-04-04 06:34:50.575951 - Found alias @MPBSB to @MPB in CBT.V508.FILE242.PDS, moved to PDS/@MPBSB
+2025-04-04 06:34:50.576076 - Found @MPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MPL
+2025-04-04 06:34:50.576200 - Found @MTB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MTB
+2025-04-04 06:34:50.576278 - Found alias @MTBMSG to @MTB in CBT.V508.FILE242.PDS, moved to PDS/@MTBMSG
+2025-04-04 06:34:50.576385 - Found @MTDSECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MTDSECT
+2025-04-04 06:34:50.576458 - Found alias @MTENTRY to @MTTABLE in CBT.V508.FILE242.PDS, moved to PDS/@MTENTRY
+2025-04-04 06:34:50.576576 - Found @MTPRMMA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MTPRMMA
+2025-04-04 06:34:50.576694 - Found @MTTABLE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@MTTABLE
+2025-04-04 06:34:50.576822 - Found @NPPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@NPPL
+2025-04-04 06:34:50.576934 - Found @NSSA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@NSSA
+2025-04-04 06:34:50.577048 - Found @OBL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OBL
+2025-04-04 06:34:50.577124 - Found alias @OBLB to @OBL in CBT.V508.FILE242.PDS, moved to PDS/@OBLB
+2025-04-04 06:34:50.577193 - Found alias @OBLBDES to @OBL in CBT.V508.FILE242.PDS, moved to PDS/@OBLBDES
+2025-04-04 06:34:50.577315 - Found @OBTWAD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OBTWAD
+2025-04-04 06:34:50.577426 - Found @OENTE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OENTE
+2025-04-04 06:34:50.577532 - Found @OEVSE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OEVSE
+2025-04-04 06:34:50.577638 - Found @OIEXL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OIEXL
+2025-04-04 06:34:50.577761 - Found @ORB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ORB
+2025-04-04 06:34:50.577874 - Found @OREF.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OREF
+2025-04-04 06:34:50.577986 - Found @OUCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OUCB
+2025-04-04 06:34:50.578092 - Found @OUSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@OUSB
+2025-04-04 06:34:50.578198 - Found alias @PARAM to @STAEPAR in CBT.V508.FILE242.PDS, moved to PDS/@PARAM
+2025-04-04 06:34:50.578316 - Found alias @PARMLIS to @STAEPAR in CBT.V508.FILE242.PDS, moved to PDS/@PARMLIS
+2025-04-04 06:34:50.578466 - Found @PCCA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PCCA
+2025-04-04 06:34:50.578601 - Found @PCCAVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PCCAVT
+2025-04-04 06:34:50.578726 - Found @PDDSECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PDDSECT
+2025-04-04 06:34:50.578863 - Found @PDS2.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PDS2
+2025-04-04 06:34:50.578987 - Found @PEL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PEL
+2025-04-04 06:34:50.579106 - Found @PGPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PGPB
+2025-04-04 06:34:50.579178 - Found alias @PGRDSCT to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@PGRDSCT
+2025-04-04 06:34:50.579302 - Found @PICA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PICA
+2025-04-04 06:34:50.579421 - Found @PIE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PIE
+2025-04-04 06:34:50.579534 - Found @PIPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PIPL
+2025-04-04 06:34:50.579612 - Found alias @PIPPRMS to @PIPL in CBT.V508.FILE242.PDS, moved to PDS/@PIPPRMS
+2025-04-04 06:34:50.579725 - Found @PIRL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PIRL
+2025-04-04 06:34:50.579864 - Found @PLIBARE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PLIBARE
+2025-04-04 06:34:50.579939 - Found alias @POEDSCT to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@POEDSCT
+2025-04-04 06:34:50.580050 - Found @PPE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PPE
+2025-04-04 06:34:50.580158 - Found @PPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PPL
+2025-04-04 06:34:50.580266 - Found @PPT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PPT
+2025-04-04 06:34:50.580344 - Found alias @PPT1 to @PPT in CBT.V508.FILE242.PDS, moved to PDS/@PPT1
+2025-04-04 06:34:50.580451 - Found @PRDINPU.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PRDINPU
+2025-04-04 06:34:50.580564 - Found @PREPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PREPL
+2025-04-04 06:34:50.580678 - Found @PSA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PSA
+2025-04-04 06:34:50.582677 - Found @PSCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PSCB
+2025-04-04 06:34:50.582797 - Found @PSL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PSL
+2025-04-04 06:34:50.582907 - Found @PSW.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PSW
+2025-04-04 06:34:50.583037 - Found @PTPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PTPB
+2025-04-04 06:34:50.583146 - Found @PVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PVT
+2025-04-04 06:34:50.583263 - Found @PWXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@PWXPL
+2025-04-04 06:34:50.583371 - Found @QEL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QEL
+2025-04-04 06:34:50.583451 - Found alias @QELB to @QEL in CBT.V508.FILE242.PDS, moved to PDS/@QELB
+2025-04-04 06:34:50.583528 - Found alias @QELBDES to @QEL in CBT.V508.FILE242.PDS, moved to PDS/@QELBDES
+2025-04-04 06:34:50.583601 - Found alias @QELQ to @QEL in CBT.V508.FILE242.PDS, moved to PDS/@QELQ
+2025-04-04 06:34:50.583675 - Found alias @QMDIINF to @QMDIP in CBT.V508.FILE242.PDS, moved to PDS/@QMDIINF
+2025-04-04 06:34:50.583782 - Found @QMDIP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QMDIP
+2025-04-04 06:34:50.583889 - Found @QMIOP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QMIOP
+2025-04-04 06:34:50.583997 - Found @QMST.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QMST
+2025-04-04 06:34:50.584077 - Found alias @QUAGRP to @QUAHDR in CBT.V508.FILE242.PDS, moved to PDS/@QUAGRP
+2025-04-04 06:34:50.584186 - Found @QUAHDR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QUAHDR
+2025-04-04 06:34:50.584264 - Found alias @QUAMEM to @QUAHDR in CBT.V508.FILE242.PDS, moved to PDS/@QUAMEM
+2025-04-04 06:34:50.584337 - Found alias @QUASYS to @QUAHDR in CBT.V508.FILE242.PDS, moved to PDS/@QUASYS
+2025-04-04 06:34:50.584472 - Found @QVOD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QVOD
+2025-04-04 06:34:50.584553 - Found alias @QVODCMM to @QVOD in CBT.V508.FILE242.PDS, moved to PDS/@QVODCMM
+2025-04-04 06:34:50.584626 - Found alias @QVODENT to @QVOD in CBT.V508.FILE242.PDS, moved to PDS/@QVODENT
+2025-04-04 06:34:50.584740 - Found @QVPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@QVPL
+2025-04-04 06:34:50.584852 - Found @RAX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RAX
+2025-04-04 06:34:50.584934 - Found alias @RBBASIC to @RBPRFX in CBT.V508.FILE242.PDS, moved to PDS/@RBBASIC
+2025-04-04 06:34:50.585044 - Found @RBPRFX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RBPRFX
+2025-04-04 06:34:50.585150 - Found @RCATABL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RCATABL
+2025-04-04 06:34:50.585262 - Found @RCE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RCE
+2025-04-04 06:34:50.585373 - Found @RCVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RCVT
+2025-04-04 06:34:50.585452 - Found alias @RCVTSNT to @RCVT in CBT.V508.FILE242.PDS, moved to PDS/@RCVTSNT
+2025-04-04 06:34:50.585571 - Found @RCXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RCXPL
+2025-04-04 06:34:50.585695 - Found @RD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RD
+2025-04-04 06:34:50.585820 - Found @RDDFLIS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RDDFLIS
+2025-04-04 06:34:50.585929 - Found @RDXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RDXPL
+2025-04-04 06:34:50.585990 - Found alias @RECHDR to @GTFAPP in CBT.V508.FILE242.PDS, moved to PDS/@RECHDR
+2025-04-04 06:34:50.586075 - Found alias @RETRY to @STAEPAR in CBT.V508.FILE242.PDS, moved to PDS/@RETRY
+2025-04-04 06:34:50.586183 - Found @RFXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RFXPL
+2025-04-04 06:34:50.586291 - Found @RGR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RGR
+2025-04-04 06:34:50.586398 - Found @RIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RIB
+2025-04-04 06:34:50.586479 - Found alias @RIBE to @RIB in CBT.V508.FILE242.PDS, moved to PDS/@RIBE
+2025-04-04 06:34:50.586560 - Found alias @RIBVAR to @RIB in CBT.V508.FILE242.PDS, moved to PDS/@RIBVAR
+2025-04-04 06:34:50.586676 - Found @RIXPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RIXPL
+2025-04-04 06:34:50.586784 - Found @RLX1PL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RLX1PL
+2025-04-04 06:34:50.586905 - Found @RLX2PL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RLX2PL
+2025-04-04 06:34:50.587016 - Found @RMPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RMPL
+2025-04-04 06:34:50.587098 - Found alias @RNL_HEA to @RNLE in CBT.V508.FILE242.PDS, moved to PDS/@RNL_HEA
+2025-04-04 06:34:50.587201 - Found @RNLE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RNLE
+2025-04-04 06:34:50.587310 - Found @RQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RQE
+2025-04-04 06:34:50.587416 - Found @RQEX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RQEX
+2025-04-04 06:34:50.587524 - Found @RRPF.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RRPF
+2025-04-04 06:34:50.587654 - Found @RSMPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RSMPL
+2025-04-04 06:34:50.587767 - Found @RSTB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RSTB
+2025-04-04 06:34:50.587857 - Found alias @RSTBCOD to @RSTB in CBT.V508.FILE242.PDS, moved to PDS/@RSTBCOD
+2025-04-04 06:34:50.587936 - Found alias @RSTBSEC to @RSTB in CBT.V508.FILE242.PDS, moved to PDS/@RSTBSEC
+2025-04-04 06:34:50.588040 - Found @RVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@RVT
+2025-04-04 06:34:50.588148 - Found @SAFP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SAFP
+2025-04-04 06:34:50.588257 - Found @SAFV.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SAFV
+2025-04-04 06:34:50.588366 - Found @SAFW.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SAFW
+2025-04-04 06:34:50.588477 - Found @SCA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCA
+2025-04-04 06:34:50.588589 - Found @SCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCB
+2025-04-04 06:34:50.588676 - Found alias @SCBX to @SCB in CBT.V508.FILE242.PDS, moved to PDS/@SCBX
+2025-04-04 06:34:50.588784 - Found @SCCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCCB
+2025-04-04 06:34:50.588866 - Found alias @SCCBCP to @SCCB in CBT.V508.FILE242.PDS, moved to PDS/@SCCBCP
+2025-04-04 06:34:50.588944 - Found alias @SCCBHSA to @SCCB in CBT.V508.FILE242.PDS, moved to PDS/@SCCBHSA
+2025-04-04 06:34:50.589054 - Found @SCHIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCHIB
+2025-04-04 06:34:50.589166 - Found @SCSRPLS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCSRPLS
+2025-04-04 06:34:50.589252 - Found alias @SCSRTCD to @SCSRPLS in CBT.V508.FILE242.PDS, moved to PDS/@SCSRTCD
+2025-04-04 06:34:50.589359 - Found @SCTXIN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCTXIN
+2025-04-04 06:34:50.589468 - Found @SCVTSEC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SCVTSEC
+2025-04-04 06:34:50.589573 - Found @SDEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SDEPL
+2025-04-04 06:34:50.589708 - Found @SDUMP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SDUMP
+2025-04-04 06:34:50.589829 - Found @SDWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SDWA
+2025-04-04 06:34:50.589921 - Found alias @SDWANRC to @SDWA in CBT.V508.FILE242.PDS, moved to PDS/@SDWANRC
+2025-04-04 06:34:50.590001 - Found alias @SDWAPTR to @SDWA in CBT.V508.FILE242.PDS, moved to PDS/@SDWAPTR
+2025-04-04 06:34:50.590078 - Found alias @SDWARC1 to @SDWA in CBT.V508.FILE242.PDS, moved to PDS/@SDWARC1
+2025-04-04 06:34:50.590159 - Found alias @SDWARC2 to @SDWA in CBT.V508.FILE242.PDS, moved to PDS/@SDWARC2
+2025-04-04 06:34:50.590238 - Found alias @SDWARC3 to @SDWA in CBT.V508.FILE242.PDS, moved to PDS/@SDWARC3
+2025-04-04 06:34:50.590344 - Found @SEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SEPL
+2025-04-04 06:34:50.590450 - Found @SHOW.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SHOW
+2025-04-04 06:34:50.590537 - Found alias @SHWASSO to @SHWPL in CBT.V508.FILE242.PDS, moved to PDS/@SHWASSO
+2025-04-04 06:34:50.590617 - Found alias @SHWOUT to @SHWPL in CBT.V508.FILE242.PDS, moved to PDS/@SHWOUT
+2025-04-04 06:34:50.590727 - Found @SHWPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SHWPL
+2025-04-04 06:34:50.590838 - Found @SIOT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SIOT
+2025-04-04 06:34:50.590944 - Found @SJACP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJACP
+2025-04-04 06:34:50.591036 - Found alias @SJACRQT to @SJACP in CBT.V508.FILE242.PDS, moved to PDS/@SJACRQT
+2025-04-04 06:34:50.591182 - Found @SJDLP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJDLP
+2025-04-04 06:34:50.591321 - Found @SJERP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJERP
+2025-04-04 06:34:50.591458 - Found @SJEXP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJEXP
+2025-04-04 06:34:50.591546 - Found alias @SJEXPCH to @SJEXP in CBT.V508.FILE242.PDS, moved to PDS/@SJEXPCH
+2025-04-04 06:34:50.591683 - Found @SJFNP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJFNP
+2025-04-04 06:34:50.591846 - Found @SJGEP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJGEP
+2025-04-04 06:34:50.591939 - Found alias @SJKLKEY to @SJKLP in CBT.V508.FILE242.PDS, moved to PDS/@SJKLKEY
+2025-04-04 06:34:50.592089 - Found @SJKLP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJKLP
+2025-04-04 06:34:50.592235 - Found @SJPRFX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJPRFX
+2025-04-04 06:34:50.592383 - Found @SJPUP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJPUP
+2025-04-04 06:34:50.592479 - Found alias @SJRELIS to @SJREP in CBT.V508.FILE242.PDS, moved to PDS/@SJRELIS
+2025-04-04 06:34:50.592617 - Found @SJREP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJREP
+2025-04-04 06:34:50.592756 - Found @SJRSP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJRSP
+2025-04-04 06:34:50.592903 - Found @SJRUP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJRUP
+2025-04-04 06:34:50.593046 - Found @SJSCP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJSCP
+2025-04-04 06:34:50.593191 - Found @SJSMP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJSMP
+2025-04-04 06:34:50.593295 - Found alias @SJSMSBT to @SJSMP in CBT.V508.FILE242.PDS, moved to PDS/@SJSMSBT
+2025-04-04 06:34:50.593383 - Found alias @SJTRKEY to @SJTRP in CBT.V508.FILE242.PDS, moved to PDS/@SJTRKEY
+2025-04-04 06:34:50.593523 - Found @SJTRP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJTRP
+2025-04-04 06:34:50.593611 - Found alias @SJTRSBT to @SJTRP in CBT.V508.FILE242.PDS, moved to PDS/@SJTRSBT
+2025-04-04 06:34:50.593716 - Found @SJTSP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJTSP
+2025-04-04 06:34:50.593801 - Found alias @SJTSSBT to @SJTSP in CBT.V508.FILE242.PDS, moved to PDS/@SJTSSBT
+2025-04-04 06:34:50.593903 - Found @SJVEP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJVEP
+2025-04-04 06:34:50.594012 - Found @SJWRP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SJWRP
+2025-04-04 06:34:50.594078 - Found alias @SLBLDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@SLBLDSC
+2025-04-04 06:34:50.594186 - Found @SMCABAS.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SMCABAS
+2025-04-04 06:34:50.594318 - Found @SMFRCD2.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SMFRCD2
+2025-04-04 06:34:50.594440 - Found @SMFRCD4.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SMFRCD4
+2025-04-04 06:34:50.594550 - Found @SMFRCD5.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SMFRCD5
+2025-04-04 06:34:50.594666 - Found @SMFTCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SMFTCT
+2025-04-04 06:34:50.594790 - Found @SNPPARM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SNPPARM
+2025-04-04 06:34:50.594853 - Found alias @SPLAD to @IEFSDPA in CBT.V508.FILE242.PDS, moved to PDS/@SPLAD
+2025-04-04 06:34:50.594962 - Found @SPPARM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SPPARM
+2025-04-04 06:34:50.595053 - Found alias @SPPMCOM to @SPPARM in CBT.V508.FILE242.PDS, moved to PDS/@SPPMCOM
+2025-04-04 06:34:50.595159 - Found @SPQA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SPQA
+2025-04-04 06:34:50.595269 - Found @SPQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SPQE
+2025-04-04 06:34:50.595379 - Found @SPT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SPT
+2025-04-04 06:34:50.595510 - Found @SQAT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SQAT
+2025-04-04 06:34:50.595619 - Found @SRBSECT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SRBSECT
+2025-04-04 06:34:50.595732 - Found @SRCD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SRCD
+2025-04-04 06:34:50.595820 - Found alias @SSAGDMB to @SSARB in CBT.V508.FILE242.PDS, moved to PDS/@SSAGDMB
+2025-04-04 06:34:50.595907 - Found alias @SSAGGMB to @SSARB in CBT.V508.FILE242.PDS, moved to PDS/@SSAGGMB
+2025-04-04 06:34:50.596016 - Found @SSARB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSARB
+2025-04-04 06:34:50.596140 - Found @SSAT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSAT
+2025-04-04 06:34:50.596252 - Found @SSCT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSCT
+2025-04-04 06:34:50.596366 - Found @SSIB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSIB
+2025-04-04 06:34:50.596478 - Found @SSL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSL
+2025-04-04 06:34:50.596601 - Found @SSOB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSOB
+2025-04-04 06:34:50.596709 - Found @SSVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSVT
+2025-04-04 06:34:50.596815 - Found @SSWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SSWA
+2025-04-04 06:34:50.596904 - Found alias @SSWAIFL to @SSWA in CBT.V508.FILE242.PDS, moved to PDS/@SSWAIFL
+2025-04-04 06:34:50.597010 - Found @STAEPAR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STAEPAR
+2025-04-04 06:34:50.597125 - Found alias @STAEWOR to @STAEPAR in CBT.V508.FILE242.PDS, moved to PDS/@STAEWOR
+2025-04-04 06:34:50.597230 - Found @STCB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STCB
+2025-04-04 06:34:50.597335 - Found @STKH.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STKH
+2025-04-04 06:34:50.597439 - Found @STPB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STPB
+2025-04-04 06:34:50.597566 - Found @STPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STPL
+2025-04-04 06:34:50.597684 - Found @STRTDCM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@STRTDCM
+2025-04-04 06:34:50.597750 - Found alias @STRTDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@STRTDSC
+2025-04-04 06:34:50.597855 - Found @SVCENTR.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SVCENTR
+2025-04-04 06:34:50.597965 - Found @SVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SVT
+2025-04-04 06:34:50.598077 - Found @SWB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@SWB
+2025-04-04 06:34:50.598169 - Found alias @S99RB to @S99RBP in CBT.V508.FILE242.PDS, moved to PDS/@S99RB
+2025-04-04 06:34:50.598275 - Found @S99RBP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@S99RBP
+2025-04-04 06:34:50.598364 - Found alias @S99RBX to @S99RBP in CBT.V508.FILE242.PDS, moved to PDS/@S99RBX
+2025-04-04 06:34:50.598451 - Found alias @S99TUFL to @S99RBP in CBT.V508.FILE242.PDS, moved to PDS/@S99TUFL
+2025-04-04 06:34:50.598539 - Found alias @S99TUNI to @S99RBP in CBT.V508.FILE242.PDS, moved to PDS/@S99TUNI
+2025-04-04 06:34:50.598625 - Found alias @S99TUPL to @S99RBP in CBT.V508.FILE242.PDS, moved to PDS/@S99TUPL
+2025-04-04 06:34:50.598731 - Found @TAIE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TAIE
+2025-04-04 06:34:50.598848 - Found @TAXE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TAXE
+2025-04-04 06:34:50.598956 - Found @TCAST.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TCAST
+2025-04-04 06:34:50.599047 - Found alias @TCB to @TCBFIX in CBT.V508.FILE242.PDS, moved to PDS/@TCB
+2025-04-04 06:34:50.599169 - Found @TCBFIX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TCBFIX
+2025-04-04 06:34:50.599260 - Found alias @TCBXTNT to @TCBFIX in CBT.V508.FILE242.PDS, moved to PDS/@TCBXTNT
+2025-04-04 06:34:50.599319 - Found alias @TERMDSC to @INITPAR in CBT.V508.FILE242.PDS, moved to PDS/@TERMDSC
+2025-04-04 06:34:50.599423 - Found @TEST.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TEST
+2025-04-04 06:34:50.599531 - Found @TEXT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TEXT
+2025-04-04 06:34:50.599653 - Found @TIOCRPT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TIOCRPT
+2025-04-04 06:34:50.599760 - Found alias @TIOENTR to @TIOT in CBT.V508.FILE242.PDS, moved to PDS/@TIOENTR
+2025-04-04 06:34:50.599866 - Found @TIOT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TIOT
+2025-04-04 06:34:50.599954 - Found alias @TMPPARM to @STAEPAR in CBT.V508.FILE242.PDS, moved to PDS/@TMPPARM
+2025-04-04 06:34:50.600062 - Found @TOKEN.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TOKEN
+2025-04-04 06:34:50.600207 - Found @TPC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TPC
+2025-04-04 06:34:50.600348 - Found @TPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TPL
+2025-04-04 06:34:50.600493 - Found @TPLE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TPLE
+2025-04-04 06:34:50.600629 - Found @TQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TQE
+2025-04-04 06:34:50.600772 - Found @TRBP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TRBP
+2025-04-04 06:34:50.600915 - Found @TROB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TROB
+2025-04-04 06:34:50.601078 - Found @TRVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TRVT
+2025-04-04 06:34:50.601237 - Found @TSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TSB
+2025-04-04 06:34:50.601381 - Found @TSBX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TSBX
+2025-04-04 06:34:50.601521 - Found @TSP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TSP
+2025-04-04 06:34:50.601663 - Found @TSVT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TSVT
+2025-04-04 06:34:50.601803 - Found @TTE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TTE
+2025-04-04 06:34:50.601949 - Found @TUX.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TUX
+2025-04-04 06:34:50.602108 - Found @TVWA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@TVWA
+2025-04-04 06:34:50.602269 - Found @UCA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UCA
+2025-04-04 06:34:50.602371 - Found alias @UCM to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCM
+2025-04-04 06:34:50.602469 - Found alias @UCMEFEX to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMEFEX
+2025-04-04 06:34:50.602564 - Found alias @UCMEIL to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMEIL
+2025-04-04 06:34:50.602660 - Found alias @UCMEPEX to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMEPEX
+2025-04-04 06:34:50.602756 - Found alias @UCMEXIT to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMEXIT
+2025-04-04 06:34:50.602850 - Found alias @UCMFEXT to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMFEXT
+2025-04-04 06:34:50.602942 - Found alias @UCMFSAV to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMFSAV
+2025-04-04 06:34:50.603033 - Found alias @UCMLIST to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMLIST
+2025-04-04 06:34:50.603128 - Found alias @UCMPEXT to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMPEXT
+2025-04-04 06:34:50.603218 - Found alias @UCMPRFX to @UCM2EXT in CBT.V508.FILE242.PDS, moved to PDS/@UCMPRFX
+2025-04-04 06:34:50.603336 - Found @UCM2EXT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UCM2EXT
+2025-04-04 06:34:50.603444 - Found @UPT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UPT
+2025-04-04 06:34:50.603509 - Found alias @USRDAT to @GTFAPP in CBT.V508.FILE242.PDS, moved to PDS/@USRDAT
+2025-04-04 06:34:50.603600 - Found alias @UXOFLTB to @UXPARMD in CBT.V508.FILE242.PDS, moved to PDS/@UXOFLTB
+2025-04-04 06:34:50.603707 - Found @UXPARMA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UXPARMA
+2025-04-04 06:34:50.603816 - Found @UXPARMB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UXPARMB
+2025-04-04 06:34:50.603924 - Found @UXPARMC.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UXPARMC
+2025-04-04 06:34:50.604036 - Found @UXPARMD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@UXPARMD
+2025-04-04 06:34:50.604141 - Found alias @UXVOLTB to @UXPARMD in CBT.V508.FILE242.PDS, moved to PDS/@UXVOLTB
+2025-04-04 06:34:50.604212 - Found alias @UX001PR to @GIMMPUX in CBT.V508.FILE242.PDS, moved to PDS/@UX001PR
+2025-04-04 06:34:50.604276 - Found alias @UX002PR to @GIMMPUX in CBT.V508.FILE242.PDS, moved to PDS/@UX002PR
+2025-04-04 06:34:50.604394 - Found @VAT.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VAT
+2025-04-04 06:34:50.604490 - Found alias @VATENTR to @VAT in CBT.V508.FILE242.PDS, moved to PDS/@VATENTR
+2025-04-04 06:34:50.604597 - Found @VEPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VEPL
+2025-04-04 06:34:50.604705 - Found @VFPM.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VFPM
+2025-04-04 06:34:50.604800 - Found alias @VFPMLAS to @VFPM in CBT.V508.FILE242.PDS, moved to PDS/@VFPMLAS
+2025-04-04 06:34:50.604905 - Found @VIER.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VIER
+2025-04-04 06:34:50.605031 - Found @VIMAP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VIMAP
+2025-04-04 06:34:50.605126 - Found alias @VIMSUMA to @VIMAP in CBT.V508.FILE242.PDS, moved to PDS/@VIMSUMA
+2025-04-04 06:34:50.605226 - Found alias @VIMVRF to @VIMAP in CBT.V508.FILE242.PDS, moved to PDS/@VIMVRF
+2025-04-04 06:34:50.605322 - Found alias @VOLTABL to @UXPARMA in CBT.V508.FILE242.PDS, moved to PDS/@VOLTABL
+2025-04-04 06:34:50.605430 - Found @VRAMAP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VRAMAP
+2025-04-04 06:34:50.605538 - Found @VSL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VSL
+2025-04-04 06:34:50.605647 - Found @VSMD.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VSMD
+2025-04-04 06:34:50.605754 - Found @VSSA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VSSA
+2025-04-04 06:34:50.605870 - Found @VTSPL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@VTSPL
+2025-04-04 06:34:50.605966 - Found alias @VXEKEY to @VIER in CBT.V508.FILE242.PDS, moved to PDS/@VXEKEY
+2025-04-04 06:34:50.606057 - Found alias @VXENT to @VIER in CBT.V508.FILE242.PDS, moved to PDS/@VXENT
+2025-04-04 06:34:50.606147 - Found alias @VXSEC to @VIER in CBT.V508.FILE242.PDS, moved to PDS/@VXSEC
+2025-04-04 06:34:50.606201 - Found alias @WK200 to @GTFAPP in CBT.V508.FILE242.PDS, moved to PDS/@WK200
+2025-04-04 06:34:50.606332 - Found @WPLRF.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@WPLRF
+2025-04-04 06:34:50.606461 - Found @WPRB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@WPRB
+2025-04-04 06:34:50.606575 - Found @WQE.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@WQE
+2025-04-04 06:34:50.606681 - Found @WSAL.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@WSAL
+2025-04-04 06:34:50.606787 - Found @WSMA.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@WSMA
+2025-04-04 06:34:50.606911 - Found @XBCHP.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@XBCHP
+2025-04-04 06:34:50.607016 - Found @XSB.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@XSB
+2025-04-04 06:34:50.607125 - Found @XTLST.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@XTLST
+2025-04-04 06:34:50.607247 - Found @ZB502.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ZB502
+2025-04-04 06:34:50.607601 - Found @ZB505.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ZB505
+2025-04-04 06:34:50.607745 - Found @ZB506.bin (application/octet-stream) in CBT.V508.FILE242.PDS, moved to PDS/@ZB506
